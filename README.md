@@ -1,6 +1,6 @@
 # Dark Teal Theme!
 
-## Preq
+## Preq and Installation
 
 ### 1. Roam Research
 - Download Roam Toolkit
